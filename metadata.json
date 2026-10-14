@@ -1,0 +1,6 @@
+{
+  "name": "AvaxSkills: SkillMesh On-Chain",
+  "description": "Prototipo interactivo y propuesta integral para AvaxSkills: Agentes de IA On-Chain, Identidad Digital Verificable, Experiencias Gamificadas e Impacto Real sobre Avalanche (C-Chain y Subnet Mock).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
